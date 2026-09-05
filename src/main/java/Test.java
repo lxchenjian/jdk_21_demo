@@ -7,7 +7,7 @@
  */
 
 /**
- * 版本一
+ * 版本二
  */
 public class Test {
 }
