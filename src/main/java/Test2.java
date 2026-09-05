@@ -1,5 +1,5 @@
 /**
- * @className: Test3
+ * @className: Test2
  * @Description: TODO
  * @version: v1.0.0
  * @author: GONGWENXUE
@@ -7,5 +7,5 @@
  */
 
 
-public class Test3 {
+public class Test2 {
 }
