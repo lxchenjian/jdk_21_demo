@@ -9,7 +9,7 @@ package test;
  */
 
 /**
- * 功能: 登录注册
+ * 功能: 微信登录注册
  */
 public class T3 {
 }
